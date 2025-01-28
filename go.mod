@@ -6,7 +6,7 @@ require (
 	cloud.google.com/go/pubsub v1.33.0
 	cloud.google.com/go/storage v1.31.0
 	github.com/flynn/json5 v0.0.0-20160717195620-7620272ed633
-	github.com/golang/glog v1.1.2
+	github.com/golang/glog v1.2.4
 	github.com/google/uuid v1.5.0
 	github.com/stretchr/testify v1.8.4
 	github.com/trietmn/go-wiki v1.0.1
